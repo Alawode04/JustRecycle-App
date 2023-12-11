@@ -1,0 +1,71 @@
+ #service{
+    background-color: #40552A;
+    color: #ffffff;
+    margin-top: 50px;
+    width: 600px;
+    height: 400px;
+    font-size: 50px;
+    margin-left: 20px;
+} 
+.my-service img{
+    height: 400px;
+    width: 500px;
+}
+.rectangle2{
+    width: 50px;
+    height: 5px;
+    border-radius: 0px;
+    background-color: white;
+    justify-content: center;
+    margin: auto;
+    margin-top: 0px;
+}
+.text h1{
+    text-align: center;
+}
+#service-img{
+    float: right;
+    width: 550px;
+    height: 300px;
+}
+.service-info h2{
+    font-weight: 400;
+    margin-top: 60px;
+    color: #021E37;
+    font-size: 30px;
+}
+.service-info{
+    margin-left: 30px;
+    padding-right: 30px;
+}
+.service-txt{
+    font-size: 20px;
+}
+#service-end{
+    background-color: #40552A;;
+    color: #ffffff;
+    width: 1150px;
+    height: 150px;
+    text-align: center;
+    margin-top: 40px;
+}
+#call h3{
+    margin-top: 40px;
+}
+#call{
+    bottom: 100px;
+    position: relative;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0px;
+}
+.conclusion2{
+    color: white;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+    margin: 20px;
+}
+.reachUs{
+    display: grid;
+    grid-template-columns: ;
+}

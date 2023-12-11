@@ -1,0 +1,18 @@
+#my-form{
+    background-color: #91AC43;
+    color: #ffffff;
+}
+.form-control{
+    width: 200px;
+    margin-left: 40px;
+    background-color: #91AC43;
+    border: 1px solid #ffffff;
+}
+#sub-btn{
+    background-color: #40552A;
+}
+#sub-btn:hover{
+    background-color: #ffffff;
+    border: 1px solid #40552A;;
+    color: #40552A;;
+}

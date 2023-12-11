@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+.grid img{
+    width: 500px;
+    border-radius: 5px;
+    margin-left: 90px;
+}
+.grid{
+    background: rgb(4, 4, 66);
+}
